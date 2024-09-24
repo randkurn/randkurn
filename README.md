@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Randy</h1>
-<h3 align="center">As a Bachelor of Engineering candidate at Universitas Pendidikan Indonesia with a focus on Mechatronics AI, I recently applied my skills during a four-month tenure as a Digital Marketing Intern at CV APINDO BROTHER SUKSES. My core competencies include software development, software installation, and leadership, all of which were crucial in executing digital marketing strategies and driving sales through dropshipping.
-
-At CV APINDO, our team's collaboration was key to optimizing product selection and implementing SEO to enhance online visibility. With a certificate of competency from PT. FEDERAL NITTAN INDUSTRIES, I am dedicated to leveraging my technical expertise and leadership abilities to contribute to innovative projects. My goal is to bring a diverse perspective to the team, aligning with the organization's culture and furthering our collective success.</h3>
+<h3 align="center">I want pursue to be a Back End Developer for my future career</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=randkurn&label=Profile%20views&color=0e75b6&style=flat" alt="randkurn" /> </p>
 
