@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Randy</h1>
 <h3 align="center">I want pursue to be a Back End Developer for my future career</h3>
 
-<p align="center"> <img src="https://i.pinimg.com/originals/50/d9/2c/50d92c23dc122ed8daa9ce1989219249.png" style="width: 30%" alt="randkurn" /> </p>
+<p align="center"> <img src="https://i.pinimg.com/originals/50/d9/2c/50d92c23dc122ed8daa9ce1989219249.png" style="width: 5%" alt="randkurn" /> </p>
 
 
 - 🔭 I’m currently studying on [Indonesia Education University](https://upi.edu/)
