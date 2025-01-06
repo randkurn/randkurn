@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Randy</h1>
 <h3 align="center">I want pursue to be a Back End Developer for my future career</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=randkurn&label=Profile%20views&color=0e75b6&style=flat" alt="randkurn" /> </p>
+<p align="left"> <img src="https://th.bing.com/th/id/OIP.7XpU2Ff702nfZDBEVHKTOQHaGK?rs=1&pid=ImgDetMain" alt="randkurn" /> </p>
 
 
 - 🔭 I’m currently studying on [Indonesia Education University](https://upi.edu/)
